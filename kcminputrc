@@ -1,0 +1,24 @@
+[Libinput][1008][911][HP, Inc HyperX Alloy Origins 65 Mouse]
+PointerAcceleration=-0.200
+PointerAccelerationProfile=1
+
+[Libinput][1102][4639][DELL081C:00 044E:121F Mouse]
+PointerAcceleration=0.200
+PointerAccelerationProfile=1
+
+[Libinput][1102][4639][DELL081C:00 044E:121F Touchpad]
+NaturalScroll=true
+PointerAcceleration=0.200
+PointerAccelerationProfile=1
+ScrollFactor=0.3
+
+[Libinput][1118][225][Microsoft Microsoft Wireless Optical Mouse® 1.00 Mouse]
+PointerAcceleration=0.400
+PointerAccelerationProfile=1
+
+[Libinput][2522][62995][COMPANY USB Device]
+PointerAcceleration=0.300
+PointerAccelerationProfile=1
+
+[Mouse]
+cursorTheme=breeze_cursors
